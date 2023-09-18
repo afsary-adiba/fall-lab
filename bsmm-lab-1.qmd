@@ -17,11 +17,9 @@ Load packages and data:
 library(Lahman)
 ```
 
-```{r} library(Lahman) dim(Teams)}
-```
+`{r} library(Lahman) dim(Teams)}`
 
-```{r} ?Teams}
-```
+`{r} ?Teams}`
 
 ```{r}
 ```
